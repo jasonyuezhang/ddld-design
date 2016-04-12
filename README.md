@@ -1,2 +1,2 @@
 # ddld-design
-ddld
+ddld sketch design and relevant images
